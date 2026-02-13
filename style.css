@@ -80,6 +80,7 @@ header {
     flex: 1 1 calc(100% - 6px);
     text-align:center;
     margin:3px;
+	border:var(--borderstyle);
     background:var(--header);
     font-size:2.5em;
 }
@@ -137,7 +138,7 @@ footer a:hover, footer a:focus {
 
 #menu ul {
     list-style:none;
-    font-size:1.8rem;
+    font-size:1.6rem;
     line-height:1.2;
 }
 
